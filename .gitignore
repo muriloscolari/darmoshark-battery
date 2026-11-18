@@ -21,3 +21,6 @@ packaging/aur/src/
 packaging/aur/pkg/
 packaging/aur/*.pkg.tar.*
 packaging/aur/darmoshark-battery/
+
+# Windows Rust tray port build output
+windows/target/
